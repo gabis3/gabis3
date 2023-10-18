@@ -1,4 +1,3 @@
 ## **Oiie sou a Gabi ✨
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 100%);transition: background-color 300ms; border: none;" 
-  src="https://user-images.githubusercontent.com/20955511/183303777-5f424f42-3c71-4802-946d-148dd4a0805f.png">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gabis3&theme=monokai&hide_border=verdadeiro&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
